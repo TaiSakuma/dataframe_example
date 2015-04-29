@@ -1,0 +1,16 @@
+               dataset     process      nevt            xsec
+      QCD_HT_1000ToInf         QCD   1464453       769.70000
+       QCD_HT_100To250         QCD   4123612  28730000.00000
+       QCD_HT_250To500         QCD   2668172    670500.00000
+      QCD_HT_500To1000         QCD   4063345     26740.00000
+     TBarToLeptons_sch           T    250000         1.34784
+     TBarToLeptons_tch           T   1999800        26.23428
+             TBar_tWch           T    971800        35.60000
+                TTJets      TTJets  25446993       809.10000
+        TToLeptons_sch           T    500000         2.33280
+        TToLeptons_tch           T   3991000        44.08020
+                T_tWch           T    986100        35.60000
+ WJetsToLNu_HT100to200  WJetsToLNu   5262265      2234.91000
+ WJetsToLNu_HT200to400  WJetsToLNu   4936077       580.06800
+ WJetsToLNu_HT400to600  WJetsToLNu   4640594        68.40030
+ WJetsToLNu_HT600toInf  WJetsToLNu   4581841        23.13630
